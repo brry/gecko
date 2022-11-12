@@ -19,6 +19,8 @@ Interaktive Karten mit R:
 - Flurstücke: [Karte](https://brry.github.io/sewekow), [Quelle](https://github.com/brry/sewekow/blob/main/karte.R)
 - Laufstrecken: [Karte](https://brry.github.io/runway), [Quelle](https://github.com/brry/runway/blob/master/berryMaps.R), [Shiny App](https://brry.shinyapps.io/runway)
 
+Kataster [Shapefiles](https://data.geobasis-bb.de/geobasis/daten/alkis/Vektordaten/shape/) Brandenburg
+
 [sf Website](https://r-spatial.github.io/sf/)
 
 Kurze [R Einführung](https://github.com/brry/hour) anhand von Wetterdaten  
